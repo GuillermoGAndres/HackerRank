@@ -1,0 +1,16 @@
+import java.util.*;
+
+public class Operators{
+    public static void main(String[] args){
+	double mealCost = 0;
+	int tax = 0;
+	int tip = 0;
+	Scanner in = new Scanner(System.in);
+	mealCost = in.nextDouble();
+	tip = in.nextInt();
+	tax = in.nextInt();
+	
+    }
+    
+    
+}

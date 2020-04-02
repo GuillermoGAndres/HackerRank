@@ -1,0 +1,10 @@
+Al final para subir todo a github
+es hacer un script que vaya entrando cada carpeta y vaya agarando solo los
+archivos fuentes .cpp y no los ejecutables ni los demas. Y creamos esos
+archivos fuentes los vaya poniendo en una sola carpeta para después subierlo
+a github solo esa carpeta
+
+#Formas que se podria hacer
+-python hay un modulo que es ios que debe tener metodos para entrar a las carpetas
+del sistema operativo o algo asi
+-Con bash (shell scripting)  de linux o bath de windows meternos a las subcarpetas
