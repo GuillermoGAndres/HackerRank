@@ -1,12 +1,14 @@
 //@author: Guillermo Andres Urbano
 #include <iostream>
 #include <vector>
+#include <string>
 
 using namespace std;
 void printVector(vector<int> arr);
 void minMaxSum(vector<int> arr);
 
 int main(){
+  
   vector<int> array{793810624, 895642170, 685903712, 623789054,468592370};
   //OUTPUT: 2572095760 2999145560
   printVector(array);
